@@ -9,14 +9,14 @@ from: markdown+emoji
 website:
   title: "Quarto X"
   page-navigation: true
-  favicon: content/favicon.svg
+  favicon: favicon.svg
   search: false
   twitter-card:
     creator: "@mxochicale"
     card-style: summary
-    image: content/favicon.svg
+    image: favicon.svg
   open-graph:
-    image: content/favicon.svg
+    image: favicon.svg
   page-footer:
     right: "This page is built with {{< fa heart >}} and [Quarto](https://quarto.org/)."
     left: "&copy; 2024, Miguel Xochicale"
