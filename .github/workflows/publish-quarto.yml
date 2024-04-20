@@ -2,7 +2,7 @@ name: Quarto Publish Slides
 
 on:
   push:
-    branches: main
+    branches: 1-quarto-slides
   workflow_dispatch:
 
 jobs:
