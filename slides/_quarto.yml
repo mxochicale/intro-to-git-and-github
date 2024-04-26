@@ -7,7 +7,7 @@ project:
 from: markdown+emoji
 
 website:
-  title: "Quarto X"
+  title: ""
   page-navigation: true
   favicon: favicon.svg
   search: false
