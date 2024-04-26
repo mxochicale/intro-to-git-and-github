@@ -114,19 +114,10 @@ Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-
 
 </div>
 
-## And More…
+## References
 
-- [Touch](https://quarto.org/docs/presentations/revealjs/advanced.html#touch-navigation)
-  optimized (presentations look great on mobile, swipe to navigate
-  slides)
-- [Footer &
-  Logo](https://quarto.org/docs/presentations/revealjs/#footer-logo)
-  (optionally specify custom footer per-slide)
-- [Auto-Slide](https://quarto.org/docs/presentations/revealjs/presenting.html#auto-slide)
-  (step through slides automatically, without any user input)
-- [Multiplex](https://quarto.org/docs/presentations/revealjs/presenting.html#multiplex)
-  (allows your audience to follow the slides of the presentation you are
-  controlling on their own phone, tablet or laptop).
+- [Version Control with
+  Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
 
 <div class="footer">
 
