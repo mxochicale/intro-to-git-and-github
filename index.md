@@ -1,21 +1,18 @@
-# Quarto Presentations Template 01
+# Introduction to git and github
 Miguel Xochicale
 
 # 
 
 <div style="background-color: rgba(22,22,22,0.75); border-radius: 10px; text-align:center; padding: 0px; padding-left: 1.5em; padding-right: 1.5em; max-width: min-content; min-width: max-content; margin-left: auto; margin-right: auto; padding-top: 0.2em; padding-bottom: 0.2em; line-height: 1.5em!important;">
 
-<span style="color:#939393; font-size:1.5em; font-weight: bold;">Main
-title</span>  
-<span style="color:#777777; font-size:1.2em; font-weight: bold;">secondary
-title</span>  
+<span style="color:#939393; font-size:1.5em; font-weight: bold;">Introduction
+to git and github</span>  
+<span style="color:#777777; font-size:1.2em; font-weight: bold;"></span>  
 <span style="padding-bottom: 0.5rem;"><br> </span>  
 [](http://mxochicale.github.io/) Miguel Xochicale  
-<span class="dim-text" style="font-size:0.8em;">contributor A and
-contributor B</span>  
+<span class="dim-text" style="font-size:0.8em;">Zakaria Senousy</span>  
 <span style="font-size:0.8em;"><span style="border-bottom: 0.5px solid #00ccff;">[
-`mxochicale/`](https://github.com/mxochicale/)</span>`{`<span style="border-bottom: 0.5px solid #00ccff;">[`tools`](https://github.com/mxochicale/tools)</span>,
-<span style="border-bottom: 0.5px solid #00ccff;">[`code`](https://github.com/mxochicale/code)</span>`}`</span>
+`mxochicale/`](https://github.com/mxochicale/)</span>`{`<span style="border-bottom: 0.5px solid #00ccff;">[`intro-to-git-and-github`](https://github.com/mxochicale/intro-to-git-and-github)</span>`}`</span>
 
 </div>
 
