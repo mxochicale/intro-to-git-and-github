@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "index.html#introduction-to-git-and-github",
+    "href": "index.html#introduction-to-git-and-github",
+    "title": "Introduction to git and github",
+    "section": "Introduction to Git and GitHub",
+    "text": "Introduction to Git and GitHub\n\nGit: A version control system that lets you manage and keep track of your source code history.\nGitHub: A cloud-based hosting service that lets you manage Git repositories.\nBenefits:\n\nTrack changes in your code across versions.\nCollaborate with others on projects.\nBackup your work on the cloud."
+  },
+  {
     "objectID": "index.html#git-command-basics",
     "href": "index.html#git-command-basics",
     "title": "Introduction to git and github",
     "section": "Git command Basics",
-    "text": "Git command Basics\n\nSetting upCreating repoInitialise repo\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\nContent for Tab B"
+    "text": "Git command Basics\n\nSetting upCreating repo\n\n\nContent for Tab A\n\nInstallation:\n\nDownload from git-scm.com\n\nConfiguration:\n\nSet your user name: git config --global user.name \"Your Name\"\nSet your email: git config --global user.email \"your.email@example.com\"\n\n\n\n\n\nContent for Tab B\n\nInitialize a New Repo:\n\ngit init\n\nCloning an Existing Repo:\n\ngit clone https://github.com/username/repository.git"
   },
   {
     "objectID": "index.html#git-command-basics-1",
     "href": "index.html#git-command-basics-1",
     "title": "Introduction to git and github",
     "section": "Git command Basics",
-    "text": "Git command Basics\n\nClonning repoCommiting changes\n\n\nContent for Tab B\n\n\nContent for Tab B"
+    "text": "Git command Basics\n\nMaking Changes and CommittingPushing Changes to GitHub\n\n\n\nTrack Changes:\n\ngit status\ngit add &lt;file&gt;\n\nCommit Changes:\n\ngit commit -m \"Commit message\"\n\n\n\n\n\n\nConnect to Remote Repo:\n\ngit remote add origin https://github.com/username/repository.git\n\nPush Changes:\n\ngit push origin master"
   },
   {
     "objectID": "index.html#github-workflow",
