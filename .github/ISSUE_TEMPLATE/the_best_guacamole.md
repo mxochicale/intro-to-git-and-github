@@ -14,9 +14,9 @@ Welcome @ username to `intro-to-git-and-github` :tada:
 We would like to make the best Guacamole recipy!!!
 
 Can you please help us with your recipy
-* [ ] Clone repo: `git clone git@github.com:mxochicale/intro-to-git-and-github.git``
+* [ ] Clone repo: `git clone git@github.com:mxochicale/intro-to-git-and-github.git`
 * [ ] Create new branch: `git checkout -b #ISSUE-NAME_OF_THE_BRANCH`
-* [ ] Create a new directory using your `given-name_family-names` for your reciby in [gym/guacamole-recipies](../../gym//guacamole-recipes/)
+* [ ] Create a new directory using your `given-name_family-names` for your reciby in [gym/guacamole-recipies](../../gym/guacamole-recipes/)
 * [ ] Commit and push a README.md with your own recipy: 
     ```
     git add .
