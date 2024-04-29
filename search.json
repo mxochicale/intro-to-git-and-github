@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html#housekeeping",
-    "href": "index.html#housekeeping",
+    "objectID": "index.html#git-command-basics",
+    "href": "index.html#git-command-basics",
     "title": "Introduction to git and github",
-    "section": "Housekeeping 🤖",
-    "text": "Housekeeping 🤖\n\n\nIntro 👋\nWorkshop materials ⬇️\nBreak 🕘\nBy the end of today ✔️\nToday’s plan 📋"
+    "section": "Git command Basics",
+    "text": "Git command Basics\n\nSetting upCreating repoInitialise repoInitialise repoClonning repoCommiting changes\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\nContent for Tab B\n\n\nContent for Tab B\n\n\nContent for Tab B\n\n\nContent for Tab B"
   },
   {
-    "objectID": "index.html#tabsets",
-    "href": "index.html#tabsets",
+    "objectID": "index.html#github-workflow",
+    "href": "index.html#github-workflow",
     "title": "Introduction to git and github",
-    "section": "Tabsets",
-    "text": "Tabsets\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B"
+    "section": "GitHub workflow",
+    "text": "GitHub workflow\n::: - Intro 👋 - Workshop materials ⬇️ - Break 🕘 - By the end of today ✔️ - Today’s plan 📋 :::"
   },
   {
     "objectID": "index.html#hello",

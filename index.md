@@ -9,7 +9,7 @@ Miguel Xochicale
 to `git` and GitHub</span>  
 <span style="color:#777777; font-size:1.2em; font-weight: bold;"></span>  
 <span style="padding-bottom: 0.5rem;"><br> </span>  
-[](http://mxochicale.github.io/) Miguel Xochicale, PhD
+[](http://mxochicale.github.io/) Miguel Xochicale, PhD  
 <span class="dim-text" style="font-size:0.8em;">Zakaria Senousy,
 PhD</span>  
 <span style="font-size:0.8em;"><span style="border-bottom: 0.5px solid #00ccff;">[
@@ -35,31 +35,40 @@ PhD</span>
 3.  [References](#sec-references)
 4.  [Exercises](#sec-extras)
 
-## Housekeeping :robot:
-
-<div class="incremental">
-
-- Intro :wave:
-- Workshop materials :arrow_down:
-- Break :clock9:
-- By the end of today :heavy_check_mark:
-- Today’s plan :clipboard:
-
-</div>
-
-## Tabsets
+## Git command Basics
 
 <div class="panel-tabset">
 
-### Tab A
+### Setting up
 
 Content for `Tab A`
 
-### Tab B
+### Creating repo
+
+Content for `Tab B`
+
+### Initialise repo
+
+Content for `Tab B`
+
+### Initialise repo
+
+Content for `Tab B`
+
+### Clonning repo
+
+Content for `Tab B`
+
+### Commiting changes
 
 Content for `Tab B`
 
 </div>
+
+## GitHub workflow
+
+::: - Intro :wave: - Workshop materials :arrow_down: - Break :clock9: -
+By the end of today :heavy_check_mark: - Today’s plan :clipboard: :::
 
 ## Hello :robot:
 
