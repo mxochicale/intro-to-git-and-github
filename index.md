@@ -51,12 +51,21 @@ PhD</span>
   earlier versions of the code to help fix the mistake while minimising
   disruption to all team members.
 
-## Automated Version Control: What should I care?
+## Automated Version Control
 
-![](figures/version-control-what-should-i-care-B.png)
+### What should I care?
+
 ![](figures/version-control-what-should-i-care-A.png)
 
-## Automated Version Control: What should I care?
+## Automated Version Control
+
+### What should I care?
+
+![](figures/version-control-what-should-i-care-A.png)
+
+## Automated Version Control
+
+### What should I care?
 
 - **Backup and restore**: Changes are stored securely and can be
   restored at any point.
@@ -233,17 +242,10 @@ Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-
   Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
 - [Version Control with
   Mercurial](https://swcarpentry.github.io/hg-novice/)
-- \[Introduction to Version
-  Control\]\](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
+- [Introduction to Version
+  Control](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
 - [Resolving a merge conflict using the command
   line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
-
-<div class="footer">
-
-Learn more: [Quarto
-Presentations](https://quarto.org/docs/presentations/revealjs/)
-
-</div>
 
 [^1]: [
     `saforem2/llm-lunch-talk`](https://github.com/Hannibal046/Awesome-LLM)
