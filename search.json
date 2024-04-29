@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html#automated-version-control",
+    "href": "index.html#automated-version-control",
+    "title": "Introduction to git and github",
+    "section": "Automated Version Control",
+    "text": "Automated Version Control\n\nWhat is Automated Version Control?\n\nA system that automatically manages changes to files, typically in the context of software development.\nKeeps track of every modification to the code in a special kind of database.\nIf a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.\n\nWhy Should You Care?\n\nBackup and Restore: Changes are stored securely and can be restored at any point.\nCollaboration: Multiple people can work on the same project at the same time.\nTrack Changes: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.\nExplore Alternatives: Safely experiment with new ideas in a branch, without affecting the main project."
+  },
+  {
     "objectID": "index.html#introduction-to-git-and-github",
     "href": "index.html#introduction-to-git-and-github",
     "title": "Introduction to git and github",
@@ -11,7 +18,7 @@
     "href": "index.html#git-command-basics",
     "title": "Introduction to git and github",
     "section": "Git command Basics",
-    "text": "Git command Basics\n\nSetting upCreating repo\n\n\n\nInstallation:\n\nDownload from git-scm.com\n\nConfiguration:\n\nSet your user name: git config --global user.name \"Your Name\"\nSet your email: git config --global user.email \"your.email@example.com\"\n\n\n\n\n\n\nInitialize a New Repo:\n\ngit init\n\nCloning an Existing Repo:\n\ngit clone https://github.com/username/repository.git"
+    "text": "Git command Basics\n\nSetting upCreating repo\n\n\n\nInstallation:\n\nDownload from git-scm.com\n\nConfiguration:\n\nSet your user name: git config --global user.name \"Your Name\"\nSet your email: git config --global user.email \"your.email@example.com\"\n\n\n\n\n\n\nInitialise a New Repo:\n\ngit init\n\nCloning an Existing Repo:\n\ngit clone https://github.com/username/repository.git"
   },
   {
     "objectID": "index.html#git-command-basics-1",
