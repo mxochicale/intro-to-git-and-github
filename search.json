@@ -39,7 +39,7 @@
     "href": "index.html#other-useful-git-commands",
     "title": "Introduction to git and github",
     "section": "Other Useful Git Commands",
-    "text": "Other Useful Git Commands"
+    "text": "Other Useful Git Commands\n\nBranch ManagementInvestigating ChangesReorganising Commits\n\n\n\ngit branch: List, create, or delete branches.\ngit switch &lt;branch&gt;: Switch branches.\n\n\n\n\n\ngit log: Display commit logs.\ngit diff: Show file differences not yet staged.\n\n\n\n\n\ngit rebase: Reapply commits on top of another base tip."
   },
   {
     "objectID": "index.html#github-workflow",
