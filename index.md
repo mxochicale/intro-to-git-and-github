@@ -110,7 +110,7 @@ PhD</span>
 
 ------------------------------------------------------------------------
 
-## Pulling Updates
+### Pulling Updates
 
 - **Using Git Pull**:
   - `git pull origin master`
