@@ -37,11 +37,11 @@ PhD</span>
 3.  [References](#sec-references)
 4.  [Exercises](#sec-extras)
 
-## Automated Version Control
+## Automated Version Control (AVC)
 
 ![](figures/version-control-what-is-it.png)
 
-## Automated Version Control
+## Automated Version Control (AVC)
 
 - A system that automatically manages changes to files, typically in the
   context of software development.
@@ -51,17 +51,13 @@ PhD</span>
   earlier versions of the code to help fix the mistake while minimising
   disruption to all team members.
 
-## Automated Version Control
-
-### What should I care?
+## AVC: What should I care?
 
 ![](figures/version-control-what-should-i-care-A.png)
 
-## Automated Version Control
+## AVC: What should I care?
 
-### What should I care?
-
-![](figures/version-control-what-should-i-care-A.png)
+![](figures/version-control-what-should-i-care-B.png)
 
 ## Automated Version Control
 
