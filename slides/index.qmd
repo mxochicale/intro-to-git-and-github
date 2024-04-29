@@ -42,6 +42,7 @@ format:
     - [What is it? Why shoud I care?](#sec-issues-with-hmc)
 2. [Git and GitHub](#sec-l2hmc)
     - [commands: init, clone, status, pull, etc](#sec-su3)
+    - [Other useful commands: branch, diff, log, rebase, switch]
     - [Workflow:issues, branches, PRs](#sec-su3)
 3. [References](#sec-references)
 4. [Exercises](#sec-extras)
@@ -54,7 +55,7 @@ format:
 - If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.
 
 
-### Why Should You Care?
+## Why Should You Care?
   - **Backup and Restore**: Changes are stored securely and can be restored at any point.
   - **Collaboration**: Multiple people can work on the same project at the same time.
   - **Track Changes**: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.
@@ -130,8 +131,23 @@ format:
 ---
 :::
 
+## Other Useful Git Commands
 
+::: {.panel-tabset}
+- **Branch Management**:
+  - `git branch`: List, create, or delete branches.
+  - `git switch <branch>`: Switch branches.
 
+- **Investigating Changes**:
+  - `git log`: Display commit logs.
+  - `git diff`: Show file differences not yet staged.
+
+- **Reorganising Commits**:
+  - `git rebase`: Reapply commits on top of another base tip.
+
+---
+
+:::
 
 ## GitHub workflow
 
