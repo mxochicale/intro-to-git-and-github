@@ -51,12 +51,9 @@ format:
 ![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control
-
 - A system that automatically manages changes to files, typically in the context of software development.
 - Keeps track of every modification to the code in a special kind of database.
 - If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.
-
-![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control: What should I care?
 ![](figures/version-control-what-should-i-care-B.png)
