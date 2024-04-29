@@ -138,15 +138,18 @@ format:
   - `git branch`: List, create, or delete branches.
   - `git switch <branch>`: Switch branches.
 
+---
+
 - **Investigating Changes**:
   - `git log`: Display commit logs.
   - `git diff`: Show file differences not yet staged.
+
+---
 
 - **Reorganising Commits**:
   - `git rebase`: Reapply commits on top of another base tip.
 
 ---
-
 :::
 
 ## GitHub workflow
