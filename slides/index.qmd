@@ -39,8 +39,8 @@ format:
 # Overview
 
 1. [Automated Version Control](#sec-avc)
-    - [What is it? Why shoud I care?](#sec-issues-with-hmc)
-2. [Git and GitHub](#sec-l2hmc)
+    - [What is it? Why shoud I care?](#sec-avc-care)
+2. [Git and GitHub](#sec-gg)
     - [commands: init, clone, status, pull, etc](#sec-su3)
     - [Other useful commands: branch, diff, log, rebase, switch](#sec-other-c)
     - [Workflow:issues, branches, PRs](#sec-su3)
@@ -48,6 +48,7 @@ format:
 4. [Exercises](#sec-extras)
 
 ## Automated Version Control (AVC)
+::: {#sec-avc}
 ![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control (AVC)
@@ -56,19 +57,20 @@ format:
 - If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.
 
 ## AVC: What should I care?
+::: {#sec-avc-care}
 ![](figures/version-control-what-should-i-care-A.png)
 
 ## AVC: What should I care?
 ![](figures/version-control-what-should-i-care-B.png)
 
 ## Automated Version Control
-### What should I care?
   - **Backup and restore**: Changes are stored securely and can be restored at any point.
   - **Collaboration**: Multiple people can work on the same project at the same time.
   - **Track changes**: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.
   - **Explore alternatives**: Safely experiment with new ideas in a branch, without affecting the main project.
 
 ## Introduction to Git and GitHub
+::: {#sec-gg}
 - **Git**: A version control system that lets you manage and keep track of your source code history.
 - **GitHub**: A cloud-based hosting service that lets you manage Git repositories.
 - **Benefits**:
@@ -158,13 +160,20 @@ format:
 ---
 :::
 
+
+## Status of Large Language Models[^slides-gh]
 ## GitHub workflow
 
-- Intro :wave:
-- Workshop materials :arrow_down:
-- Break :clock9:
-- By the end of today :heavy_check_mark:
-- Today's plan :clipboard:
+::: {#fig-llms}
+
+![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
+
+Large Language Models have (LLM)s have taken the ~~NLP community~~ **world** by storm[^llm-animation]
+
+:::
+
+[^llm-animation]: [{{< fa brands github >}} `Hannibal046/Awesome-LLM`](https://github.com/Hannibal046/Awesome-LLM)
+[^slides-gh]: [{{< fa brands github >}} `saforem2/llm-lunch-talk`](https://github.com/Hannibal046/Awesome-LLM) [(slides)](https://saforem2.github.io/llm-lunch-talk)
 
 
 
@@ -181,49 +190,6 @@ This presentation will show you examples of what you can do with Quarto and [Rev
 ...and much more
 
 
-## Status of Large Language Models[^slides-gh]
-
-::: {#fig-llms}
-
-![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
-
-Large Language Models have (LLM)s have taken the ~~NLP community~~ **world** by storm[^llm-animation]
-
-:::
-
-[^llm-animation]: [{{< fa brands github >}} `Hannibal046/Awesome-LLM`](https://github.com/Hannibal046/Awesome-LLM)
-[^slides-gh]: [{{< fa brands github >}} `saforem2/llm-lunch-talk`](https://github.com/Hannibal046/Awesome-LLM) [(slides)](https://saforem2.github.io/llm-lunch-talk)
-
-
-
-## Media Backgrounds {background="#43464B" background-image="figures/milky-way.jpeg"}
-
-You can also use the following as a slide background:
-
--   An image: `background-image`
-
--   A video: `background-video`
-
--   An iframe: `background-iframe`
-
-::: footer
-Learn more: [Media Backgrounds](https://quarto.org/docs/presentations/revealjs/#image-backgrounds)
-:::
-
-
-## Absolute Position
-
-Position images or other elements at precise locations
-
-![](figures/kitten-400-350.jpeg){.absolute top="170" left="30" width="400" height="400"}
-
-![](figures/kitten-450-250.jpeg){.absolute .fragment top="150" right="80" width="450"}
-
-![](figures/kitten-300-200.jpeg){.absolute .fragment bottom="110" right="130" width="300"}
-
-::: footer
-Learn more: [Absolute Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-position)
-:::
 
 
 ## References
