@@ -40,7 +40,7 @@ format:
 
 1. [Automated Version Control](#markov)
     - [What is it? Why shoud I care?](#sec-issues-with-hmc)
-2. [GitHub](#sec-l2hmc)
+2. [Git and GitHub](#sec-l2hmc)
     - [commands: init, clone, status, pull, etc](#sec-su3)
     - [Workflow:issues, branches, PRs](#sec-su3)
 3. [References](#sec-references)
