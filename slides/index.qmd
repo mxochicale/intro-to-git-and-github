@@ -43,9 +43,9 @@ format:
 2. [Git and GitHub](#sec-gg)
     - [commands: init, clone, status, pull, etc](#sec-su3)
     - [Other useful commands: branch, diff, log, rebase, switch](#sec-other-c)
-    - [Workflow:issues, branches, PRs](#sec-su3)
-3. [References](#sec-references)
-4. [Exercises](#sec-extras)
+    - [Workflow:issues, branches, PRs](#sec-gf)
+4. [Exercises](#sec-gym)
+3. [References](#sec-ref)
 
 ## Automated Version Control (AVC)
 ::: {#sec-avc}
@@ -165,6 +165,21 @@ format:
 
 
 ## GitHub workflow
+::: {#sec-gf}
+![](figures/github-workflow.png)
+:::
+
+
+## Exercises
+### 🥑 How to Make the Best Guacamole?
+
+
+## References
+- [Version Control with Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
+- [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/)
+- [Introduction to Version Control](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
+- [Resolving a merge conflict using the command line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+
 
 
 ## Status of Large Language Models[^slides-gh]
@@ -191,16 +206,6 @@ This presentation will show you examples of what you can do with Quarto and [Rev
 -   Image, video, and iframe backgrounds
 -   Fancy transitions and animations
 -   Printing to PDF
-
 ...and much more
-
-
-
-
-## References
-- [Version Control with Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
-- [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/)
-- [Introduction to Version Control](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
-- [Resolving a merge conflict using the command line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
 
 
