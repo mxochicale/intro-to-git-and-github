@@ -182,30 +182,4 @@ format:
 
 
 
-## Status of Large Language Models[^slides-gh]
-
-::: {#fig-llms}
-
-![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
-
-Large Language Models have (LLM)s have taken the ~~NLP community~~ **world** by storm[^llm-animation]
-
-:::
-
-[^llm-animation]: [{{< fa brands github >}} `Hannibal046/Awesome-LLM`](https://github.com/Hannibal046/Awesome-LLM)
-[^slides-gh]: [{{< fa brands github >}} `saforem2/llm-lunch-talk`](https://github.com/Hannibal046/Awesome-LLM) [(slides)](https://saforem2.github.io/llm-lunch-talk)
-
-
-
-## Hello :robot:
-
-This presentation will show you examples of what you can do with Quarto and [Reveal.js](https://revealjs.com), including:
-
--   Presenting code and LaTeX equations
--   Including computations in slide output
--   Image, video, and iframe backgrounds
--   Fancy transitions and animations
--   Printing to PDF
-...and much more
-
 
