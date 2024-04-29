@@ -4,14 +4,21 @@
     "href": "index.html#git-command-basics",
     "title": "Introduction to git and github",
     "section": "Git command Basics",
-    "text": "Git command Basics\n\nSetting upCreating repoInitialise repoInitialise repoClonning repoCommiting changes\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\nContent for Tab B\n\n\nContent for Tab B\n\n\nContent for Tab B\n\n\nContent for Tab B"
+    "text": "Git command Basics\n\nSetting upCreating repoInitialise repo\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\nContent for Tab B"
+  },
+  {
+    "objectID": "index.html#git-command-basics-1",
+    "href": "index.html#git-command-basics-1",
+    "title": "Introduction to git and github",
+    "section": "Git command Basics",
+    "text": "Git command Basics\n\nClonning repoCommiting changes\n\n\nContent for Tab B\n\n\nContent for Tab B"
   },
   {
     "objectID": "index.html#github-workflow",
     "href": "index.html#github-workflow",
     "title": "Introduction to git and github",
     "section": "GitHub workflow",
-    "text": "GitHub workflow\n::: - Intro 👋 - Workshop materials ⬇️ - Break 🕘 - By the end of today ✔️ - Today’s plan 📋 :::"
+    "text": "GitHub workflow\n:::\n\nIntro 👋\nWorkshop materials ⬇️\nBreak 🕘\nBy the end of today ✔️\nToday’s plan 📋\n\n:::"
   },
   {
     "objectID": "index.html#hello",
