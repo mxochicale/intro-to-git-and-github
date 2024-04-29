@@ -33,9 +33,9 @@ PhD</span>
     - [commands: init, clone, status, pull, etc](#sec-su3)
     - [Other useful commands: branch, diff, log, rebase,
       switch](#sec-other-c)
-    - [Workflow:issues, branches, PRs](#sec-su3)
-3.  [References](#sec-references)
-4.  [Exercises](#sec-extras)
+    - [Workflow:issues, branches, PRs](#sec-gf)
+3.  [Exercises](#sec-gym)
+4.  [References](#sec-ref)
 
 ## Automated Version Control (AVC)
 
@@ -182,6 +182,27 @@ PhD</span>
 
 ## GitHub workflow
 
+<div id="sec-gf">
+
+![](figures/github-workflow.png)
+
+</div>
+
+## Exercises
+
+### 🥑 How to Make the Best Guacamole?
+
+## References
+
+- [Version Control with
+  Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
+- [Version Control with
+  Mercurial](https://swcarpentry.github.io/hg-novice/)
+- [Introduction to Version
+  Control](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
+- [Resolving a merge conflict using the command
+  line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+
 ## Status of Large Language Models[^1]
 
 ![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
@@ -195,20 +216,7 @@ and [Reveal.js](https://revealjs.com), including:
 - Including computations in slide output
 - Image, video, and iframe backgrounds
 - Fancy transitions and animations
-- Printing to PDF
-
-…and much more
-
-## References
-
-- [Version Control with
-  Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
-- [Version Control with
-  Mercurial](https://swcarpentry.github.io/hg-novice/)
-- [Introduction to Version
-  Control](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
-- [Resolving a merge conflict using the command
-  line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+- Printing to PDF …and much more
 
 [^1]: [
     `saforem2/llm-lunch-talk`](https://github.com/Hannibal046/Awesome-LLM)

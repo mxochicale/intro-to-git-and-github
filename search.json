@@ -70,6 +70,20 @@
     "text": "GitHub workflow"
   },
   {
+    "objectID": "index.html#exercises",
+    "href": "index.html#exercises",
+    "title": "Introduction to git and github",
+    "section": "Exercises",
+    "text": "Exercises\n🥑 How to Make the Best Guacamole?"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Introduction to git and github",
+    "section": "References",
+    "text": "References\n\nVersion Control with Git\nVersion Control with Mercurial\nIntroduction to Version Control\nResolving a merge conflict using the command line"
+  },
+  {
     "objectID": "index.html#status-of-large-language-modelsslides-gh",
     "href": "index.html#status-of-large-language-modelsslides-gh",
     "title": "Introduction to git and github",
@@ -81,13 +95,6 @@
     "href": "index.html#hello",
     "title": "Introduction to git and github",
     "section": "Hello 🤖",
-    "text": "Hello 🤖\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "index.html#references",
-    "href": "index.html#references",
-    "title": "Introduction to git and github",
-    "section": "References",
-    "text": "References\n\nVersion Control with Git\nVersion Control with Mercurial\nIntroduction to Version Control\nResolving a merge conflict using the command line"
+    "text": "Hello 🤖\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF …and much more"
   }
 ]
