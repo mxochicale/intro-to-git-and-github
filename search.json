@@ -18,7 +18,14 @@
     "href": "index.html#git-command-basics-1",
     "title": "Introduction to git and github",
     "section": "Git command Basics",
-    "text": "Git command Basics\n\nMaking Changes and CommittingPushing Changes to GitHub\n\n\n\nTrack Changes:\n\ngit status\ngit add &lt;file&gt;\n\nCommit Changes:\n\ngit commit -m \"Commit message\"\n\n\n\n\n\n\nConnect to Remote Repo:\n\ngit remote add origin https://github.com/username/repository.git\n\nPush Changes:\n\ngit push origin master"
+    "text": "Git command Basics\n\nMaking Changes and CommittingPushing Changes\n\n\n\nTrack Changes:\n\ngit status\ngit add &lt;file&gt;\n\nCommit Changes:\n\ngit commit -m \"Commit message\"\n\n\n\n\nPulling Updates\n\nUsing Git Pull:\n\ngit pull origin master\nThis command pulls changes from the remote repository and merges them into your local branch.\n\n\n\n\n\n\n\nConnect to Remote Repo:\n\ngit remote add origin https://github.com/username/repository.git\n\nPush Changes:\n\ngit push origin master"
+  },
+  {
+    "objectID": "index.html#pulling-updates",
+    "href": "index.html#pulling-updates",
+    "title": "Introduction to git and github",
+    "section": "Pulling Updates",
+    "text": "Pulling Updates\n\nUsing Git Pull:\n\ngit pull origin master\nThis command pulls changes from the remote repository and merges them into your local branch."
   },
   {
     "objectID": "index.html#github-workflow",

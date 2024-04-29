@@ -86,7 +86,16 @@ PhD</span>
 
 ------------------------------------------------------------------------
 
-### Pushing Changes to GitHub
+## Pulling Updates
+
+- **Using Git Pull**:
+  - `git pull origin master`
+  - This command pulls changes from the remote repository and merges
+    them into your local branch.
+
+------------------------------------------------------------------------
+
+### Pushing Changes
 
 - **Connect to Remote Repo**:
   - `git remote add origin https://github.com/username/repository.git`
