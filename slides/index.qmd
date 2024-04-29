@@ -48,7 +48,7 @@ format:
 4. [Exercises](#sec-extras)
 
 ## Automated Version Control
-![](../figures/version-control-what-is-it.png}
+![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control
 
@@ -56,11 +56,11 @@ format:
 - Keeps track of every modification to the code in a special kind of database.
 - If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.
 
-![](../figures/version-control-what-is-it.png}
+![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control: What should I care?
-![](../figures/version-control-what-should-i-care-B.png}
-![](../figures/version-control-what-should-i-care-A.png}
+![](figures/version-control-what-should-i-care-B.png)
+![](figures/version-control-what-should-i-care-A.png)
 
 ## Automated Version Control: What should I care?
   - **Backup and restore**: Changes are stored securely and can be restored at any point.
