@@ -4,21 +4,21 @@
     "href": "index.html#automated-version-control",
     "title": "Introduction to git and github",
     "section": "Automated Version Control",
-    "text": "Automated Version Control\n![](../figures/version-control-what-is-it.png}"
+    "text": "Automated Version Control"
   },
   {
     "objectID": "index.html#automated-version-control-1",
     "href": "index.html#automated-version-control-1",
     "title": "Introduction to git and github",
     "section": "Automated Version Control",
-    "text": "Automated Version Control\n\nA system that automatically manages changes to files, typically in the context of software development.\nKeeps track of every modification to the code in a special kind of database.\nIf a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.\n\n![](../figures/version-control-what-is-it.png}"
+    "text": "Automated Version Control\n\nA system that automatically manages changes to files, typically in the context of software development.\nKeeps track of every modification to the code in a special kind of database.\nIf a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members."
   },
   {
     "objectID": "index.html#automated-version-control-what-should-i-care",
     "href": "index.html#automated-version-control-what-should-i-care",
     "title": "Introduction to git and github",
     "section": "Automated Version Control: What should I care?",
-    "text": "Automated Version Control: What should I care?\n![](../figures/version-control-what-should-i-care-B.png} ![](../figures/version-control-what-should-i-care-A.png}"
+    "text": "Automated Version Control: What should I care?"
   },
   {
     "objectID": "index.html#automated-version-control-what-should-i-care-1",

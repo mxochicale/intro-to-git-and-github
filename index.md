@@ -39,7 +39,7 @@ PhD</span>
 
 ## Automated Version Control
 
-\![\](../figures/version-control-what-is-it.png}
+![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control
 
@@ -51,12 +51,10 @@ PhD</span>
   earlier versions of the code to help fix the mistake while minimising
   disruption to all team members.
 
-\![\](../figures/version-control-what-is-it.png}
-
 ## Automated Version Control: What should I care?
 
-\![\](../figures/version-control-what-should-i-care-B.png}
-\![\](../figures/version-control-what-should-i-care-A.png}
+![](figures/version-control-what-should-i-care-B.png)
+![](figures/version-control-what-should-i-care-A.png)
 
 ## Automated Version Control: What should I care?
 
