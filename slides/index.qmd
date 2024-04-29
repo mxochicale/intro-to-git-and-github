@@ -59,14 +59,17 @@ Content for `Tab A`
 
 Content for `Tab B`
 
-
 ### Initialise repo
 
 Content for `Tab B`
 
-### Initialise repo
 
-Content for `Tab B`
+:::
+
+
+## Git command Basics
+
+::: {.panel-tabset}
 
 ### Clonning repo
 
@@ -79,14 +82,18 @@ Content for `Tab B`
 :::
 
 
+
+
 ## GitHub workflow
 
 ::: 
+
 - Intro :wave:
 - Workshop materials :arrow_down:
 - Break :clock9:
 - By the end of today :heavy_check_mark:
 - Today's plan :clipboard:
+
 :::
 
 
