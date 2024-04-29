@@ -6,11 +6,12 @@ Miguel Xochicale
 <div style="background-color: rgba(22,22,22,0.75); border-radius: 10px; text-align:center; padding: 0px; padding-left: 1.5em; padding-right: 1.5em; max-width: min-content; min-width: max-content; margin-left: auto; margin-right: auto; padding-top: 0.2em; padding-bottom: 0.2em; line-height: 1.5em!important;">
 
 <span style="color:#939393; font-size:1.5em; font-weight: bold;">Introduction
-to git and github</span>  
+to `git` and GitHub</span>  
 <span style="color:#777777; font-size:1.2em; font-weight: bold;"></span>  
 <span style="padding-bottom: 0.5rem;"><br> </span>  
-[](http://mxochicale.github.io/) Miguel Xochicale  
-<span class="dim-text" style="font-size:0.8em;">Zakaria Senousy</span>  
+[](http://mxochicale.github.io/) Miguel Xochicale, PhD
+<span class="dim-text" style="font-size:0.8em;">Zakaria Senousy,
+PhD</span>  
 <span style="font-size:0.8em;"><span style="border-bottom: 0.5px solid #00ccff;">[
 `mxochicale/`](https://github.com/mxochicale/)</span>`{`<span style="border-bottom: 0.5px solid #00ccff;">[`intro-to-git-and-github`](https://github.com/mxochicale/intro-to-git-and-github)</span>`}`</span>
 
@@ -26,11 +27,11 @@ to git and github</span>
 
 # Overview
 
-1.  [Automated Version
-    Control](#markov-chain-monte-carlo-mcmc-centeredslide)
+1.  [Automated Version Control](#markov)
     - [What is it? Why shoud I care?](#sec-issues-with-hmc)
-2.  [GitHub workflow](#sec-l2hmc)
-    - [issues, branches, PRs](#sec-su3)
+2.  [GitHub](#sec-l2hmc)
+    - [commands: init, clone, status, pull, etc](#sec-su3)
+    - [Workflow:issues, branches, PRs](#sec-su3)
 3.  [References](#sec-references)
 4.  [Exercises](#sec-extras)
 
