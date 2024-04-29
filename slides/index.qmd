@@ -47,6 +47,22 @@ format:
 4. [Exercises](#sec-extras)
 
 
+## Automated Version Control
+
+- **What is Automated Version Control?**
+  - A system that automatically manages changes to files, typically in the context of software development.
+  - Keeps track of every modification to the code in a special kind of database.
+  - If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.
+
+- **Why Should You Care?**
+  - **Backup and Restore**: Changes are stored securely and can be restored at any point.
+  - **Collaboration**: Multiple people can work on the same project at the same time.
+  - **Track Changes**: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.
+  - **Explore Alternatives**: Safely experiment with new ideas in a branch, without affecting the main project.
+
+---
+
+
 ## Introduction to Git and GitHub
 
 - **Git**: A version control system that lets you manage and keep track of your source code history.
@@ -71,7 +87,7 @@ format:
 ---
 
 ### Creating repo
-- **Initialize a New Repo**:
+- **Initialise a New Repo**:
   - `git init`
 - **Cloning an Existing Repo**:
   - `git clone https://github.com/username/repository.git`
