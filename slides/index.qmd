@@ -47,6 +47,15 @@ format:
 4. [Exercises](#sec-extras)
 
 
+## Introduction to Git and GitHub
+
+- **Git**: A version control system that lets you manage and keep track of your source code history.
+- **GitHub**: A cloud-based hosting service that lets you manage Git repositories.
+- **Benefits**:
+  - Track changes in your code across versions.
+  - Collaborate with others on projects.
+  - Backup your work on the cloud.
+
 ## Git command Basics
 
 ::: {.panel-tabset}
@@ -55,14 +64,24 @@ format:
 
 Content for `Tab A`
 
+- **Installation**:
+  - Download from [git-scm.com](https://git-scm.com/)
+- **Configuration**:
+  - Set your user name: `git config --global user.name "Your Name"`
+  - Set your email: `git config --global user.email "your.email@example.com"`
+
+---
+
 ### Creating repo
 
 Content for `Tab B`
 
-### Initialise repo
+- **Initialize a New Repo**:
+  - `git init`
+- **Cloning an Existing Repo**:
+  - `git clone https://github.com/username/repository.git`
 
-Content for `Tab B`
-
+---
 
 :::
 
@@ -71,14 +90,24 @@ Content for `Tab B`
 
 ::: {.panel-tabset}
 
-### Clonning repo
+### Making Changes and Committing
 
-Content for `Tab B`
+- **Track Changes**:
+  - `git status`
+  - `git add <file>`
+- **Commit Changes**:
+  - `git commit -m "Commit message"`
 
-### Commiting changes
+---
 
-Content for `Tab B`
+### Pushing Changes to GitHub
 
+- **Connect to Remote Repo**:
+  - `git remote add origin https://github.com/username/repository.git`
+- **Push Changes**:
+  - `git push origin master`
+
+---
 :::
 
 
