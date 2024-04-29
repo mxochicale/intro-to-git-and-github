@@ -54,6 +54,8 @@ format:
 - Keeps track of every modification to the code in a special kind of database.
 - If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.
 
+![](figures/version-control-what-is-it.jpeg}
+![](figures/version-control-what-should-i-care.jpeg}
 
 ## Why Should You Care?
   - **Backup and Restore**: Changes are stored securely and can be restored at any point.
@@ -157,15 +159,11 @@ format:
 
 ## GitHub workflow
 
-::: 
-
 - Intro :wave:
 - Workshop materials :arrow_down:
 - Break :clock9:
 - By the end of today :heavy_check_mark:
 - Today's plan :clipboard:
-
-:::
 
 
 
@@ -197,7 +195,7 @@ Large Language Models have (LLM)s have taken the ~~NLP community~~ **world** by 
 
 
 
-## Media Backgrounds {background="#43464B" background-image="images/milky-way.jpeg"}
+## Media Backgrounds {background="#43464B" background-image="figures/milky-way.jpeg"}
 
 You can also use the following as a slide background:
 
@@ -216,11 +214,11 @@ Learn more: [Media Backgrounds](https://quarto.org/docs/presentations/revealjs/#
 
 Position images or other elements at precise locations
 
-![](images/kitten-400-350.jpeg){.absolute top="170" left="30" width="400" height="400"}
+![](figures/kitten-400-350.jpeg){.absolute top="170" left="30" width="400" height="400"}
 
-![](images/kitten-450-250.jpeg){.absolute .fragment top="150" right="80" width="450"}
+![](figures/kitten-450-250.jpeg){.absolute .fragment top="150" right="80" width="450"}
 
-![](images/kitten-300-200.jpeg){.absolute .fragment bottom="110" right="130" width="300"}
+![](figures/kitten-300-200.jpeg){.absolute .fragment bottom="110" right="130" width="300"}
 
 ::: footer
 Learn more: [Absolute Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-position)
@@ -229,6 +227,7 @@ Learn more: [Absolute Position](https://quarto.org/docs/presentations/revealjs/a
 
 ## References
 - [Version Control with Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
+- [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/)
 
 ::: footer
 Learn more: [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/)
