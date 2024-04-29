@@ -26,7 +26,7 @@ format:
 <span style="color:#939393; font-size:1.5em; font-weight: bold;">Introduction to `git` and GitHub</span>  
 <span style="color:#777777; font-size:1.2em; font-weight: bold;"></span>  
 [<br>&nbsp;]{style="padding-bottom: 0.5rem;"}  
-[{{< fa solid home >}}](http://mxochicale.github.io/) Miguel Xochicale, PhD 
+[{{< fa solid home >}}](http://mxochicale.github.io/) Miguel Xochicale, PhD     
 [Zakaria Senousy, PhD]{.dim-text style="font-size:0.8em;"}  
 [[[{{< fa brands github >}} `mxochicale/`](https://github.com/mxochicale/)]{style="border-bottom: 0.5px solid #00ccff;"}`{`[[`intro-to-git-and-github`](https://github.com/mxochicale/intro-to-git-and-github)]{style="border-bottom: 0.5px solid #00ccff;"}`}`]{style="font-size:0.8em;"}
 :::
@@ -46,9 +46,42 @@ format:
 3. [References](#sec-references)
 4. [Exercises](#sec-extras)
 
-## Housekeeping :robot:
 
-::: {.incremental}
+## Git command Basics
+
+::: {.panel-tabset}
+
+### Setting up
+
+Content for `Tab A`
+
+### Creating repo
+
+Content for `Tab B`
+
+
+### Initialise repo
+
+Content for `Tab B`
+
+### Initialise repo
+
+Content for `Tab B`
+
+### Clonning repo
+
+Content for `Tab B`
+
+### Commiting changes
+
+Content for `Tab B`
+
+:::
+
+
+## GitHub workflow
+
+::: 
 - Intro :wave:
 - Workshop materials :arrow_down:
 - Break :clock9:
@@ -56,20 +89,6 @@ format:
 - Today's plan :clipboard:
 :::
 
-
-## Tabsets
-
-::: {.panel-tabset}
-
-### Tab A
-
-Content for `Tab A`
-
-### Tab B
-
-Content for `Tab B`
-
-:::
 
 
 ## Hello :robot:
