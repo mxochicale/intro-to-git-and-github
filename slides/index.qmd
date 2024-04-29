@@ -50,6 +50,7 @@ format:
 ## Automated Version Control (AVC)
 ::: {#sec-avc}
 ![](figures/version-control-what-is-it.png)
+:::
 
 ## Automated Version Control (AVC)
 - A system that automatically manages changes to files, typically in the context of software development.
@@ -59,6 +60,7 @@ format:
 ## AVC: What should I care?
 ::: {#sec-avc-care}
 ![](figures/version-control-what-should-i-care-A.png)
+:::
 
 ## AVC: What should I care?
 ![](figures/version-control-what-should-i-care-B.png)
@@ -77,6 +79,7 @@ format:
   - Track changes in your code across versions.
   - Collaborate with others on projects.
   - Backup your work on the cloud.
+:::
 
 
 ## Git command Basics
@@ -161,8 +164,10 @@ format:
 :::
 
 
-## Status of Large Language Models[^slides-gh]
 ## GitHub workflow
+
+
+## Status of Large Language Models[^slides-gh]
 
 ::: {#fig-llms}
 
