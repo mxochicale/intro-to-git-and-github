@@ -202,22 +202,3 @@ PhD</span>
   Control](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
 - [Resolving a merge conflict using the command
   line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
-
-## Status of Large Language Models[^1]
-
-![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
-
-## Hello :robot:
-
-This presentation will show you examples of what you can do with Quarto
-and [Reveal.js](https://revealjs.com), including:
-
-- Presenting code and LaTeX equations
-- Including computations in slide output
-- Image, video, and iframe backgrounds
-- Fancy transitions and animations
-- Printing to PDF …and much more
-
-[^1]: [
-    `saforem2/llm-lunch-talk`](https://github.com/Hannibal046/Awesome-LLM)
-    [(slides)](https://saforem2.github.io/llm-lunch-talk)
