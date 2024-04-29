@@ -27,14 +27,19 @@ PhD</span>
 
 # Overview
 
-1.  [Automated Version Control](#markov)
+1.  [Automated Version Control](#sec-avc)
     - [What is it? Why shoud I care?](#sec-issues-with-hmc)
 2.  [Git and GitHub](#sec-l2hmc)
     - [commands: init, clone, status, pull, etc](#sec-su3)
-    - \[Other useful commands: branch, diff, log, rebase, switch\]
+    - [Other useful commands: branch, diff, log, rebase,
+      switch](#sec-other-c)
     - [Workflow:issues, branches, PRs](#sec-su3)
 3.  [References](#sec-references)
 4.  [Exercises](#sec-extras)
+
+## Automated Version Control
+
+\![\](../figures/version-control-what-is-it.png}
 
 ## Automated Version Control
 
@@ -46,22 +51,24 @@ PhD</span>
   earlier versions of the code to help fix the mistake while minimising
   disruption to all team members.
 
-\![\](figures/version-control-what-is-it.png}
+\![\](../figures/version-control-what-is-it.png}
 
 ## Automated Version Control: What should I care?
 
-- **Backup and Restore**: Changes are stored securely and can be
+\![\](../figures/version-control-what-should-i-care-B.png}
+\![\](../figures/version-control-what-should-i-care-A.png}
+
+## Automated Version Control: What should I care?
+
+- **Backup and restore**: Changes are stored securely and can be
   restored at any point.
 - **Collaboration**: Multiple people can work on the same project at the
   same time.
-- **Track Changes**: You can see who last modified something that might
+- **Track changes**: You can see who last modified something that might
   be causing a problem, who introduced an issue, when it was introduced,
   and more.
-- **Explore Alternatives**: Safely experiment with new ideas in a
+- **Explore alternatives**: Safely experiment with new ideas in a
   branch, without affecting the main project.
-
-\![\](figures/version-control-what-should-i-care-B.png}
-\![\](figures/version-control-what-should-i-care-A.png}
 
 ## Introduction to Git and GitHub
 
