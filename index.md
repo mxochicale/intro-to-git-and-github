@@ -39,7 +39,11 @@ PhD</span>
 
 ## Automated Version Control (AVC)
 
-::: {#sec-avc} ![](figures/version-control-what-is-it.png)
+<div id="sec-avc">
+
+![](figures/version-control-what-is-it.png)
+
+</div>
 
 ## Automated Version Control (AVC)
 
@@ -53,8 +57,11 @@ PhD</span>
 
 ## AVC: What should I care?
 
-::: {#sec-avc-care}
+<div id="sec-avc-care">
+
 ![](figures/version-control-what-should-i-care-A.png)
+
+</div>
 
 ## AVC: What should I care?
 
@@ -74,11 +81,18 @@ PhD</span>
 
 ## Introduction to Git and GitHub
 
-::: {#sec-gg} - **Git**: A version control system that lets you manage
-and keep track of your source code history. - **GitHub**: A cloud-based
-hosting service that lets you manage Git repositories. - **Benefits**: -
-Track changes in your code across versions. - Collaborate with others on
-projects. - Backup your work on the cloud.
+<div id="sec-gg">
+
+- **Git**: A version control system that lets you manage and keep track
+  of your source code history.
+- **GitHub**: A cloud-based hosting service that lets you manage Git
+  repositories.
+- **Benefits**:
+  - Track changes in your code across versions.
+  - Collaborate with others on projects.
+  - Backup your work on the cloud.
+
+</div>
 
 ## Git command Basics
 
@@ -166,9 +180,9 @@ projects. - Backup your work on the cloud.
 
 </div>
 
-## Status of Large Language Models[^1]
-
 ## GitHub workflow
+
+## Status of Large Language Models[^1]
 
 ![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
 
