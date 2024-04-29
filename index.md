@@ -52,8 +52,6 @@ PhD</span>
 
 ### Setting up
 
-Content for `Tab A`
-
 - **Installation**:
   - Download from [git-scm.com](https://git-scm.com/)
 - **Configuration**:
@@ -64,8 +62,6 @@ Content for `Tab A`
 ------------------------------------------------------------------------
 
 ### Creating repo
-
-Content for `Tab B`
 
 - **Initialize a New Repo**:
   - `git init`

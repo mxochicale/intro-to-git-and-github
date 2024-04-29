@@ -11,7 +11,7 @@
     "href": "index.html#git-command-basics",
     "title": "Introduction to git and github",
     "section": "Git command Basics",
-    "text": "Git command Basics\n\nSetting upCreating repo\n\n\nContent for Tab A\n\nInstallation:\n\nDownload from git-scm.com\n\nConfiguration:\n\nSet your user name: git config --global user.name \"Your Name\"\nSet your email: git config --global user.email \"your.email@example.com\"\n\n\n\n\n\nContent for Tab B\n\nInitialize a New Repo:\n\ngit init\n\nCloning an Existing Repo:\n\ngit clone https://github.com/username/repository.git"
+    "text": "Git command Basics\n\nSetting upCreating repo\n\n\n\nInstallation:\n\nDownload from git-scm.com\n\nConfiguration:\n\nSet your user name: git config --global user.name \"Your Name\"\nSet your email: git config --global user.email \"your.email@example.com\"\n\n\n\n\n\n\nInitialize a New Repo:\n\ngit init\n\nCloning an Existing Repo:\n\ngit clone https://github.com/username/repository.git"
   },
   {
     "objectID": "index.html#git-command-basics-1",
