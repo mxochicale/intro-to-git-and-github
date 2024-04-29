@@ -46,7 +46,9 @@ PhD</span>
   earlier versions of the code to help fix the mistake while minimising
   disruption to all team members.
 
-## Why Should You Care?
+\![\](figures/version-control-what-is-it.png}
+
+## Automated Version Control: What should I care?
 
 - **Backup and Restore**: Changes are stored securely and can be
   restored at any point.
@@ -58,7 +60,8 @@ PhD</span>
 - **Explore Alternatives**: Safely experiment with new ideas in a
   branch, without affecting the main project.
 
-------------------------------------------------------------------------
+\![\](figures/version-control-what-should-i-care-B.png}
+\![\](figures/version-control-what-should-i-care-A.png}
 
 ## Introduction to Git and GitHub
 
@@ -159,15 +162,11 @@ PhD</span>
 
 ## GitHub workflow
 
-:::
-
 - Intro :wave:
 - Workshop materials :arrow_down:
 - Break :clock9:
 - By the end of today :heavy_check_mark:
 - Today’s plan :clipboard:
-
-:::
 
 ## Hello :robot:
 
@@ -207,13 +206,13 @@ Backgrounds](https://quarto.org/docs/presentations/revealjs/#image-backgrounds)
 
 Position images or other elements at precise locations
 
-<img src="images/kitten-400-350.jpeg" class="absolute" data-top="170"
+<img src="figures/kitten-400-350.jpeg" class="absolute" data-top="170"
 data-left="30" width="400" height="400" />
 
-<img src="images/kitten-450-250.jpeg" class="absolute fragment"
+<img src="figures/kitten-450-250.jpeg" class="absolute fragment"
 data-top="150" data-right="80" width="450" />
 
-<img src="images/kitten-300-200.jpeg" class="absolute fragment"
+<img src="figures/kitten-300-200.jpeg" class="absolute fragment"
 data-bottom="110" data-right="130" width="300" />
 
 <div class="footer">
@@ -227,6 +226,12 @@ Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-
 
 - [Version Control with
   Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
+- [Version Control with
+  Mercurial](https://swcarpentry.github.io/hg-novice/)
+- \[Introduction to Version
+  Control\]\](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
+- [Resolving a merge conflict using the command
+  line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
 
 <div class="footer">
 

@@ -4,14 +4,14 @@
     "href": "index.html#automated-version-control",
     "title": "Introduction to git and github",
     "section": "Automated Version Control",
-    "text": "Automated Version Control\n\nA system that automatically manages changes to files, typically in the context of software development.\nKeeps track of every modification to the code in a special kind of database.\nIf a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members."
+    "text": "Automated Version Control\n\nA system that automatically manages changes to files, typically in the context of software development.\nKeeps track of every modification to the code in a special kind of database.\nIf a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimising disruption to all team members.\n\n![](figures/version-control-what-is-it.png}"
   },
   {
-    "objectID": "index.html#why-should-you-care",
-    "href": "index.html#why-should-you-care",
+    "objectID": "index.html#automated-version-control-what-should-i-care",
+    "href": "index.html#automated-version-control-what-should-i-care",
     "title": "Introduction to git and github",
-    "section": "Why Should You Care?",
-    "text": "Why Should You Care?\n\nBackup and Restore: Changes are stored securely and can be restored at any point.\nCollaboration: Multiple people can work on the same project at the same time.\nTrack Changes: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.\nExplore Alternatives: Safely experiment with new ideas in a branch, without affecting the main project."
+    "section": "Automated Version Control: What should I care?",
+    "text": "Automated Version Control: What should I care?\n\nBackup and Restore: Changes are stored securely and can be restored at any point.\nCollaboration: Multiple people can work on the same project at the same time.\nTrack Changes: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.\nExplore Alternatives: Safely experiment with new ideas in a branch, without affecting the main project.\n\n![](figures/version-control-what-should-i-care-B.png} ![](figures/version-control-what-should-i-care-A.png}"
   },
   {
     "objectID": "index.html#introduction-to-git-and-github",
@@ -46,7 +46,7 @@
     "href": "index.html#github-workflow",
     "title": "Introduction to git and github",
     "section": "GitHub workflow",
-    "text": "GitHub workflow\n:::\n\nIntro 👋\nWorkshop materials ⬇️\nBreak 🕘\nBy the end of today ✔️\nToday’s plan 📋\n\n:::"
+    "text": "GitHub workflow\n\nIntro 👋\nWorkshop materials ⬇️\nBreak 🕘\nBy the end of today ✔️\nToday’s plan 📋"
   },
   {
     "objectID": "index.html#hello",
@@ -81,6 +81,6 @@
     "href": "index.html#references",
     "title": "Introduction to git and github",
     "section": "References",
-    "text": "References\n\nVersion Control with Git\n\n\nLearn more: Quarto Presentations\n\n\n\n\n\nhttps://quarto.org"
+    "text": "References\n\nVersion Control with Git\nVersion Control with Mercurial\n[Introduction to Version Control]](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)\nResolving a merge conflict using the command line\n\n\nLearn more: Quarto Presentations\n\n\n\n\n\nhttps://quarto.org"
   }
 ]
