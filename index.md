@@ -31,6 +31,7 @@ PhD</span>
     - [What is it? Why shoud I care?](#sec-issues-with-hmc)
 2.  [Git and GitHub](#sec-l2hmc)
     - [commands: init, clone, status, pull, etc](#sec-su3)
+    - \[Other useful commands: branch, diff, log, rebase, switch\]
     - [Workflow:issues, branches, PRs](#sec-su3)
 3.  [References](#sec-references)
 4.  [Exercises](#sec-extras)
@@ -45,7 +46,7 @@ PhD</span>
   earlier versions of the code to help fix the mistake while minimising
   disruption to all team members.
 
-### Why Should You Care?
+## Why Should You Care?
 
 - **Backup and Restore**: Changes are stored securely and can be
   restored at any point.
@@ -127,6 +128,12 @@ PhD</span>
   - `git push origin master`
 
 ------------------------------------------------------------------------
+
+</div>
+
+## Other Useful Git Commands
+
+<div class="panel-tabset">
 
 </div>
 
