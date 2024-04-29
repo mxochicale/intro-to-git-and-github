@@ -28,7 +28,10 @@ Please delete options accordingly to the description.
 ```
 git checkout main
 git pull origin main
-git checkout RB 
+git checkout FEATURE_BRANCH 
 git rebase main
-git push --force origin RB
+#git status
+#git rebase --continue
+#git add .
+git push --force origin FEATURE_BRANCH
 ```

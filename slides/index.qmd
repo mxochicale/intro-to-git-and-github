@@ -229,6 +229,7 @@ Learn more: [Absolute Position](https://quarto.org/docs/presentations/revealjs/a
 - [Version Control with Git](https://github-pages.ucl.ac.uk/git-novice/01-basics.html)
 - [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/)
 - [Introduction to Version Control]](https://github.com/UCL/rsd-engineeringcourse/tree/main/ch00git)
+- [Resolving a merge conflict using the command line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
 
 ::: footer
 Learn more: [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/)
