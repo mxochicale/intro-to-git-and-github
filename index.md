@@ -28,8 +28,8 @@ PhD</span>
 # Overview
 
 1.  [Automated Version Control](#sec-avc)
-    - [What is it? Why shoud I care?](#sec-issues-with-hmc)
-2.  [Git and GitHub](#sec-l2hmc)
+    - [What is it? Why shoud I care?](#sec-avc-care)
+2.  [Git and GitHub](#sec-gg)
     - [commands: init, clone, status, pull, etc](#sec-su3)
     - [Other useful commands: branch, diff, log, rebase,
       switch](#sec-other-c)
@@ -39,7 +39,7 @@ PhD</span>
 
 ## Automated Version Control (AVC)
 
-![](figures/version-control-what-is-it.png)
+::: {#sec-avc} ![](figures/version-control-what-is-it.png)
 
 ## Automated Version Control (AVC)
 
@@ -53,6 +53,7 @@ PhD</span>
 
 ## AVC: What should I care?
 
+::: {#sec-avc-care}
 ![](figures/version-control-what-should-i-care-A.png)
 
 ## AVC: What should I care?
@@ -60,8 +61,6 @@ PhD</span>
 ![](figures/version-control-what-should-i-care-B.png)
 
 ## Automated Version Control
-
-### What should I care?
 
 - **Backup and restore**: Changes are stored securely and can be
   restored at any point.
@@ -75,14 +74,11 @@ PhD</span>
 
 ## Introduction to Git and GitHub
 
-- **Git**: A version control system that lets you manage and keep track
-  of your source code history.
-- **GitHub**: A cloud-based hosting service that lets you manage Git
-  repositories.
-- **Benefits**:
-  - Track changes in your code across versions.
-  - Collaborate with others on projects.
-  - Backup your work on the cloud.
+::: {#sec-gg} - **Git**: A version control system that lets you manage
+and keep track of your source code history. - **GitHub**: A cloud-based
+hosting service that lets you manage Git repositories. - **Benefits**: -
+Track changes in your code across versions. - Collaborate with others on
+projects. - Backup your work on the cloud.
 
 ## Git command Basics
 
@@ -170,13 +166,11 @@ PhD</span>
 
 </div>
 
+## Status of Large Language Models[^1]
+
 ## GitHub workflow
 
-- Intro :wave:
-- Workshop materials :arrow_down:
-- Break :clock9:
-- By the end of today :heavy_check_mark:
-- Today’s plan :clipboard:
+![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
 
 ## Hello :robot:
 
@@ -190,47 +184,6 @@ and [Reveal.js](https://revealjs.com), including:
 - Printing to PDF
 
 …and much more
-
-## Status of Large Language Models[^1]
-
-![](https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif)
-
-## Media Backgrounds
-
-You can also use the following as a slide background:
-
-- An image: `background-image`
-
-- A video: `background-video`
-
-- An iframe: `background-iframe`
-
-<div class="footer">
-
-Learn more: [Media
-Backgrounds](https://quarto.org/docs/presentations/revealjs/#image-backgrounds)
-
-</div>
-
-## Absolute Position
-
-Position images or other elements at precise locations
-
-<img src="figures/kitten-400-350.jpeg" class="absolute" data-top="170"
-data-left="30" width="400" height="400" />
-
-<img src="figures/kitten-450-250.jpeg" class="absolute fragment"
-data-top="150" data-right="80" width="450" />
-
-<img src="figures/kitten-300-200.jpeg" class="absolute fragment"
-data-bottom="110" data-right="130" width="300" />
-
-<div class="footer">
-
-Learn more: [Absolute
-Position](https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-position)
-
-</div>
 
 ## References
 

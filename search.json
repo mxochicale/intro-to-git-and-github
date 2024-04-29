@@ -4,7 +4,7 @@
     "href": "index.html#automated-version-control-avc",
     "title": "Introduction to git and github",
     "section": "Automated Version Control (AVC)",
-    "text": "Automated Version Control (AVC)"
+    "text": "Automated Version Control (AVC)\n::: {#sec-avc}"
   },
   {
     "objectID": "index.html#automated-version-control-avc-1",
@@ -18,7 +18,7 @@
     "href": "index.html#avc-what-should-i-care",
     "title": "Introduction to git and github",
     "section": "AVC: What should I care?",
-    "text": "AVC: What should I care?"
+    "text": "AVC: What should I care?\n::: {#sec-avc-care}"
   },
   {
     "objectID": "index.html#avc-what-should-i-care-1",
@@ -32,14 +32,14 @@
     "href": "index.html#automated-version-control",
     "title": "Introduction to git and github",
     "section": "Automated Version Control",
-    "text": "Automated Version Control\nWhat should I care?\n\nBackup and restore: Changes are stored securely and can be restored at any point.\nCollaboration: Multiple people can work on the same project at the same time.\nTrack changes: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.\nExplore alternatives: Safely experiment with new ideas in a branch, without affecting the main project."
+    "text": "Automated Version Control\n\nBackup and restore: Changes are stored securely and can be restored at any point.\nCollaboration: Multiple people can work on the same project at the same time.\nTrack changes: You can see who last modified something that might be causing a problem, who introduced an issue, when it was introduced, and more.\nExplore alternatives: Safely experiment with new ideas in a branch, without affecting the main project."
   },
   {
     "objectID": "index.html#introduction-to-git-and-github",
     "href": "index.html#introduction-to-git-and-github",
     "title": "Introduction to git and github",
     "section": "Introduction to Git and GitHub",
-    "text": "Introduction to Git and GitHub\n\nGit: A version control system that lets you manage and keep track of your source code history.\nGitHub: A cloud-based hosting service that lets you manage Git repositories.\nBenefits:\n\nTrack changes in your code across versions.\nCollaborate with others on projects.\nBackup your work on the cloud."
+    "text": "Introduction to Git and GitHub\n::: {#sec-gg} - Git: A version control system that lets you manage and keep track of your source code history. - GitHub: A cloud-based hosting service that lets you manage Git repositories. - Benefits: - Track changes in your code across versions. - Collaborate with others on projects. - Backup your work on the cloud."
   },
   {
     "objectID": "index.html#git-command-basics",
@@ -63,11 +63,18 @@
     "text": "Other Useful Git Commands\n\nBranch ManagementInvestigating ChangesReorganising Commits\n\n\n\ngit branch: List, create, or delete branches.\ngit switch &lt;branch&gt;: Switch branches.\n\n\n\n\n\ngit log: Display commit logs.\ngit diff: Show file differences not yet staged.\n\n\n\n\n\ngit rebase: Reapply commits on top of another base tip."
   },
   {
+    "objectID": "index.html#status-of-large-language-modelsslides-gh",
+    "href": "index.html#status-of-large-language-modelsslides-gh",
+    "title": "Introduction to git and github",
+    "section": "Status of Large Language Models1",
+    "text": "Status of Large Language Models1\n saforem2/llm-lunch-talk (slides)"
+  },
+  {
     "objectID": "index.html#github-workflow",
     "href": "index.html#github-workflow",
     "title": "Introduction to git and github",
     "section": "GitHub workflow",
-    "text": "GitHub workflow\n\nIntro 👋\nWorkshop materials ⬇️\nBreak 🕘\nBy the end of today ✔️\nToday’s plan 📋"
+    "text": "GitHub workflow\n\n\n\n\n\n\nFigure 1: Large Language Models have (LLM)s have taken the NLP community world by storm1\n\n\n\n Hannibal046/Awesome-LLM"
   },
   {
     "objectID": "index.html#hello",
@@ -75,27 +82,6 @@
     "title": "Introduction to git and github",
     "section": "Hello 🤖",
     "text": "Hello 🤖\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
-  },
-  {
-    "objectID": "index.html#status-of-large-language-modelsslides-gh",
-    "href": "index.html#status-of-large-language-modelsslides-gh",
-    "title": "Introduction to git and github",
-    "section": "Status of Large Language Models1",
-    "text": "Status of Large Language Models1\n\n\n\n\n\n\nFigure 1: Large Language Models have (LLM)s have taken the NLP community world by storm2\n\n\n\n saforem2/llm-lunch-talk (slides) Hannibal046/Awesome-LLM"
-  },
-  {
-    "objectID": "index.html#media-backgrounds",
-    "href": "index.html#media-backgrounds",
-    "title": "Introduction to git and github",
-    "section": "Media Backgrounds",
-    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
-  },
-  {
-    "objectID": "index.html#absolute-position",
-    "href": "index.html#absolute-position",
-    "title": "Introduction to git and github",
-    "section": "Absolute Position",
-    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
   },
   {
     "objectID": "index.html#references",

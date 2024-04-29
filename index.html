@@ -364,9 +364,9 @@
 <ol type="1">
 <li><a href="#/sec-avc">Automated Version Control</a>
 <ul>
-<li><a href="#/sec-issues-with-hmc">What is it? Why shoud I care?</a></li>
+<li><a href="#/sec-avc-care">What is it? Why shoud I care?</a></li>
 </ul></li>
-<li><a href="#/sec-l2hmc">Git and GitHub</a>
+<li><a href="#/sec-gg">Git and GitHub</a>
 <ul>
 <li><a href="#/sec-su3">commands: init, clone, status, pull, etc</a></li>
 <li><a href="#/sec-other-c">Other useful commands: branch, diff, log, rebase, switch</a></li>
@@ -378,8 +378,8 @@
 </section>
 <section id="automated-version-control-avc" class="slide level2">
 <h2>Automated Version Control (AVC)</h2>
-
-<img data-src="figures/version-control-what-is-it.png" class="r-stretch"></section>
+<p>::: {#sec-avc} <img data-src="figures/version-control-what-is-it.png"></p>
+</section>
 <section id="automated-version-control-avc-1" class="slide level2">
 <h2>Automated Version Control (AVC)</h2>
 <ul>
@@ -390,15 +390,14 @@
 </section>
 <section id="avc-what-should-i-care" class="slide level2">
 <h2>AVC: What should I care?</h2>
-
-<img data-src="figures/version-control-what-should-i-care-A.png" class="r-stretch"></section>
+<p>::: {#sec-avc-care} <img data-src="figures/version-control-what-should-i-care-A.png"></p>
+</section>
 <section id="avc-what-should-i-care-1" class="slide level2">
 <h2>AVC: What should I care?</h2>
 
 <img data-src="figures/version-control-what-should-i-care-B.png" class="r-stretch"></section>
 <section id="automated-version-control" class="slide level2">
 <h2>Automated Version Control</h2>
-<h3 id="what-should-i-care">What should I care?</h3>
 <ul>
 <li><strong>Backup and restore</strong>: Changes are stored securely and can be restored at any point.</li>
 <li><strong>Collaboration</strong>: Multiple people can work on the same project at the same time.</li>
@@ -408,16 +407,7 @@
 </section>
 <section id="introduction-to-git-and-github" class="slide level2">
 <h2>Introduction to Git and GitHub</h2>
-<ul>
-<li><strong>Git</strong>: A version control system that lets you manage and keep track of your source code history.</li>
-<li><strong>GitHub</strong>: A cloud-based hosting service that lets you manage Git repositories.</li>
-<li><strong>Benefits</strong>:
-<ul>
-<li>Track changes in your code across versions.</li>
-<li>Collaborate with others on projects.</li>
-<li>Backup your work on the cloud.</li>
-</ul></li>
-</ul>
+<p>::: {#sec-gg} - <strong>Git</strong>: A version control system that lets you manage and keep track of your source code history. - <strong>GitHub</strong>: A cloud-based hosting service that lets you manage Git repositories. - <strong>Benefits</strong>: - Track changes in your code across versions. - Collaborate with others on projects. - Backup your work on the cloud.</p>
 </section>
 <section id="git-command-basics" class="slide level2">
 <h2>Git command Basics</h2>
@@ -527,16 +517,22 @@
 </div>
 </div>
 </section>
+<section id="status-of-large-language-modelsslides-gh" class="slide level2">
+<h2>Status of Large Language Models<sup>1</sup></h2>
+<aside><ol class="aside-footnotes"><li id="fn1"><p><a href="https://github.com/Hannibal046/Awesome-LLM"><i class="fa-brands fa-github"></i> <code>saforem2/llm-lunch-talk</code></a> <a href="https://saforem2.github.io/llm-lunch-talk">(slides)</a></p></li></ol></aside></section>
 <section id="github-workflow" class="slide level2">
 <h2>GitHub workflow</h2>
-<ul>
-<li>Intro <span class="emoji" data-emoji="wave">👋</span></li>
-<li>Workshop materials <span class="emoji" data-emoji="arrow_down">⬇️</span></li>
-<li>Break <span class="emoji" data-emoji="clock9">🕘</span></li>
-<li>By the end of today <span class="emoji" data-emoji="heavy_check_mark">✔️</span></li>
-<li>Today’s plan <span class="emoji" data-emoji="clipboard">📋</span></li>
-</ul>
-</section>
+<div id="fig-llms" class="quarto-figure quarto-figure-center quarto-float">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-llms-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img data-src="https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-llms-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Large Language Models have (LLM)s have taken the <del>NLP community</del> <strong>world</strong> by storm<sup>1</sup>
+</figcaption>
+</figure>
+</div>
+<aside><ol class="aside-footnotes"><li id="fn2"><p><a href="https://github.com/Hannibal046/Awesome-LLM"><i class="fa-brands fa-github"></i> <code>Hannibal046/Awesome-LLM</code></a></p></li></ol></aside></section>
 <section id="hello" class="slide level2">
 <h2>Hello <span class="emoji" data-emoji="robot">🤖</span></h2>
 <p>This presentation will show you examples of what you can do with Quarto and <a href="https://revealjs.com">Reveal.js</a>, including:</p>
@@ -548,41 +544,6 @@
 <li>Printing to PDF</li>
 </ul>
 <p>…and much more</p>
-</section>
-<section id="status-of-large-language-modelsslides-gh" class="slide level2">
-<h2>Status of Large Language Models<sup>1</sup></h2>
-<div id="fig-llms" class="quarto-figure quarto-figure-center quarto-float">
-<figure class="quarto-float quarto-float-fig">
-<div aria-describedby="fig-llms-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img data-src="https://github.com/Hannibal046/Awesome-LLM/raw/main/resources/image8.gif">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-llms-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Large Language Models have (LLM)s have taken the <del>NLP community</del> <strong>world</strong> by storm<sup>2</sup>
-</figcaption>
-</figure>
-</div>
-<aside><ol class="aside-footnotes"><li id="fn1"><p><a href="https://github.com/Hannibal046/Awesome-LLM"><i class="fa-brands fa-github"></i> <code>saforem2/llm-lunch-talk</code></a> <a href="https://saforem2.github.io/llm-lunch-talk">(slides)</a></p></li><li id="fn2"><p><a href="https://github.com/Hannibal046/Awesome-LLM"><i class="fa-brands fa-github"></i> <code>Hannibal046/Awesome-LLM</code></a></p></li></ol></aside></section>
-<section id="media-backgrounds" class="slide level2" data-background="#43464B" data-background-image="figures/milky-way.jpeg">
-<h2>Media Backgrounds</h2>
-<p>You can also use the following as a slide background:</p>
-<ul>
-<li><p>An image: <code>background-image</code></p></li>
-<li><p>A video: <code>background-video</code></p></li>
-<li><p>An iframe: <code>background-iframe</code></p></li>
-</ul>
-<div class="footer">
-<p>Learn more: <a href="https://quarto.org/docs/presentations/revealjs/#image-backgrounds">Media Backgrounds</a></p>
-</div>
-</section>
-<section id="absolute-position" class="slide level2">
-<h2>Absolute Position</h2>
-<p>Position images or other elements at precise locations</p>
-<p><img data-src="figures/kitten-400-350.jpeg" class="absolute" style="top: 170px; left: 30px; width: 400px; height: 400px; "></p>
-<p><img data-src="figures/kitten-450-250.jpeg" class="absolute fragment" style="top: 150px; right: 80px; width: 450px; "></p>
-<p><img data-src="figures/kitten-300-200.jpeg" class="absolute fragment" style="bottom: 110px; right: 130px; width: 300px; "></p>
-<div class="footer">
-<p>Learn more: <a href="https://quarto.org/docs/presentations/revealjs/advanced.html#absolute-position">Absolute Position</a></p>
-</div>
 </section>
 <section id="references" class="slide level2">
 <h2>References</h2>
