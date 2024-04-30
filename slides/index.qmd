@@ -173,6 +173,18 @@ format:
 ![](figures/github-workflow.png)
 :::
 
+## GitHub workflow
+::: {#sec-gb}
+![](figures/github-branches.png)
+:::
+
+## GitHub workflow
+::: {#sec-gb}
+![](figures/github-concepts.png)
+:::
+
+
+
 
 ## Exercises
 ### 🥑 How to Make the Best Guacamole?
