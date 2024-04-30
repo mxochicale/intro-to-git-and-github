@@ -14,8 +14,10 @@ Welcome @ username to `intro-to-git-and-github` :tada:
 We would like to make the best Guacamole recipy!!!
 
 Can you please help us with your recipy
+* [ ] Create your ssh keys as suggested [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 * [ ] Clone repo: `git clone git@github.com:mxochicale/intro-to-git-and-github.git`
-* [ ] Create new branch: `git checkout -b #ISSUE-NAME_OF_THE_BRANCH`
+* [ ] Share your github username to be added as contributor of this repo: 
+* [ ] Create new branch: `git checkout -b #ISSUE-YOUR_NAME_AS_THE_BRANCH_NAME`
 * [ ] Create a new directory using your `given-name_family-names` for your reciby in [gym/guacamole-recipies](https://github.com/mxochicale/intro-to-git-and-github/tree/main/gym/guacamole-recipes)
 * [ ] Commit and push a README.md with your own recipy: 
     ```
