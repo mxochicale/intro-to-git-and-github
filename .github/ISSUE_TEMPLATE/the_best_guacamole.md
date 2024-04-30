@@ -33,9 +33,13 @@ Can you please help us with your recipy
     git checkout main
     git pull origin main
     git checkout FEATURE_BRANCH 
+    <!-- Make conflicting changes in local file-->
+    git add .
+    git commit -m 'short message about added conflict'
     git rebase main
     #git status
     #git rebase --continue
     #git add .
     git push --force origin FEATURE_BRANCH
+    <!-- Create pull request to merge branch changes to main-->
     ```
