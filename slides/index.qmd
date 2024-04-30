@@ -164,6 +164,9 @@ format:
 :::
 
 
+## Git data transport commands
+![](figures/git_data_transport_diagram.png)
+
 ## GitHub workflow
 ::: {#sec-gf}
 ![](figures/github-workflow.png)
