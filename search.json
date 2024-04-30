@@ -63,8 +63,29 @@
     "text": "Other Useful Git Commands\n\nBranch ManagementInvestigating ChangesReorganising Commits\n\n\n\ngit branch: List, create, or delete branches.\ngit switch &lt;branch&gt;: Switch branches.\n\n\n\n\n\ngit log: Display commit logs.\ngit diff: Show file differences not yet staged.\n\n\n\n\n\ngit rebase: Reapply commits on top of another base tip."
   },
   {
+    "objectID": "index.html#git-data-transport-commands",
+    "href": "index.html#git-data-transport-commands",
+    "title": "Introduction to git and github",
+    "section": "Git data transport commands",
+    "text": "Git data transport commands"
+  },
+  {
     "objectID": "index.html#github-workflow",
     "href": "index.html#github-workflow",
+    "title": "Introduction to git and github",
+    "section": "GitHub workflow",
+    "text": "GitHub workflow"
+  },
+  {
+    "objectID": "index.html#github-workflow-1",
+    "href": "index.html#github-workflow-1",
+    "title": "Introduction to git and github",
+    "section": "GitHub workflow",
+    "text": "GitHub workflow"
+  },
+  {
+    "objectID": "index.html#github-workflow-2",
+    "href": "index.html#github-workflow-2",
     "title": "Introduction to git and github",
     "section": "GitHub workflow",
     "text": "GitHub workflow"

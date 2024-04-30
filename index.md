@@ -180,11 +180,31 @@ PhD</span>
 
 </div>
 
+## Git data transport commands
+
+![](figures/git_data_transport_diagram.png)
+
 ## GitHub workflow
 
 <div id="sec-gf">
 
 ![](figures/github-workflow.png)
+
+</div>
+
+## GitHub workflow
+
+<div id="sec-gb">
+
+![](figures/github-branches.png)
+
+</div>
+
+## GitHub workflow
+
+<div id="sec-gb">
+
+![](figures/github-concepts.png)
 
 </div>
 
