@@ -1,14 +1,14 @@
-# Gucamole recipes!
+# Gucamole recipes! 🥑🥑🥑🥑🥑🥑🥑
 
 # Best recipe of Guacamole by Katy Forrest
 
 ## Ingredients
-1. 2 Hass Avocados
-2. 4 Salad tomaotes
-3. 1 Red onion
-4. Salt and peppers
-5. Lime juice
-6. Lemon juice
+1. 2 Hass Avocados 🥑 
+2. 4 Salad tomaotoes 🍅
+3. 1 onion 🧅
+4. Salt and pepper 🧂
+5. Lime juice 🍋‍🟩
+6. Lemon juice 🍋
 
 
 ## Method 
