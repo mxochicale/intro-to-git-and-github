@@ -200,17 +200,13 @@ PhD</span>
 
 </div>
 
-## GitHub workflow
-
-<div id="sec-gb">
-
-![](figures/github-concepts.png)
-
-</div>
-
 ## Exercises
 
 ### 🥑 How to Make the Best Guacamole?
+
+- Create SSH keys
+- `git clone git@github.com:mxochicale/intro-to-git-and-github.git`
+- Raise a new issue with the tamplate `How to Make the Best Guacamole?`
 
 ## References
 

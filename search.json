@@ -84,18 +84,11 @@
     "text": "GitHub workflow"
   },
   {
-    "objectID": "index.html#github-workflow-2",
-    "href": "index.html#github-workflow-2",
-    "title": "Introduction to git and github",
-    "section": "GitHub workflow",
-    "text": "GitHub workflow"
-  },
-  {
     "objectID": "index.html#exercises",
     "href": "index.html#exercises",
     "title": "Introduction to git and github",
     "section": "Exercises",
-    "text": "Exercises\n🥑 How to Make the Best Guacamole?"
+    "text": "Exercises\n🥑 How to Make the Best Guacamole?\n\nCreate SSH keys\ngit clone git@github.com:mxochicale/intro-to-git-and-github.git\nRaise a new issue with the tamplate How to Make the Best Guacamole?"
   },
   {
     "objectID": "index.html#references",
