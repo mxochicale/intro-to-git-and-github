@@ -67,6 +67,10 @@ PhD</span>
 
 ![](figures/version-control-what-should-i-care-B.png)
 
+## AVC: What should I care?
+
+![](figures/git_stage_commit.png)
+
 ## Automated Version Control
 
 - **Backup and restore**: Changes are stored securely and can be
