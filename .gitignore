@@ -1,3 +1,11 @@
-## temporal vim files
-*.sw*
-
+**/*.swp
+.vscode
+.npm
+**/*.quarto_ipynb
+.quarto/
+slides/.quarto/
+slides/.gitignore
+slides/docs
+slides/site_libs
+slides/index_files
+slides/index.html
