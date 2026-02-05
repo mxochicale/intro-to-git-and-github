@@ -108,9 +108,9 @@ git checkout main
 * Under Build and deployment:
 * Source: Deploy from a branch
 
-* [3/3] Go to [PAGES](https://github.com/mxochicale/ros2care/settings/pages) and select in the menu `Deploy from a branch` and select gh-pages `/(root)`
+* [3/3] Go to settings/pages in your github repository and select in the menu `Deploy from a branch` and select gh-pages `/(root)`
 
-See [hash `dbe5f16` for tag v0.1.0 for quarto template](https://github.com/mxochicale/ros2care/commit/dbe5f16fe9949aafe8bfdb4a5a39208154c74072)
+* Sometimes is useful to mark the hash for a particular tag release of your quarto template
 
 ### Push changes and publish slides
 * add `feature_branch` name to [publish-quarto.yml](../.github/workflows/publish-quarto.yml)
